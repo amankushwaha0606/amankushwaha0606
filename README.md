@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Passionate developer with 2+ years of professional experience building scalable web and mobile applications. I specialize in transforming complex business logic into intuitive interfaces using modern technologies. IIT Ropar Computer Science graduate with strong foundations in algorithms and system design.
+Passionate developer with 3+ years of professional experience building scalable web and mobile applications. I specialize in transforming complex business logic into intuitive interfaces using modern technologies. IIT Ropar Computer Science graduate with strong foundations in algorithms and system design.
 
 ## 🛠 Technical Stack
 
