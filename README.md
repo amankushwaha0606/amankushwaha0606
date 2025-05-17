@@ -59,11 +59,6 @@ Health management app used by 500+ Aanganwadi workers, managing 25K+ child healt
 ### [📚 Assignment Management System](https://github.com/amankushwaha0606/assignment-app) (React/Node.js)
 Full-stack app for assignment handling with role-based views for teachers and students
 
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankushwaha0606&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amankushwaha0606&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 I'm always open to meaningful frontend opportunities, collaborations, and building cool UI systems. Feel free to reach out!
