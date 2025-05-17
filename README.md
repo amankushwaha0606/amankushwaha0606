@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aman Singh Kushwaha
 
-**Full Stack Developer | IIT Ropar Alumnus | FinTech & Mobile App Specialist**
+**Frontend Developer | IIT Ropar Alumnus | React & UI Specialist in FinTech**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/amankushwaha0606)
 [![Email](https://img.shields.io/badge/-Email%20Me-EA4335?logo=gmail)](mailto:amankushwaha2001@gmail.com)
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Passionate developer with 3+ years of professional experience building scalable web and mobile applications. I specialize in transforming complex business logic into intuitive interfaces using modern technologies. IIT Ropar Computer Science graduate with strong foundations in algorithms and system design.
+Frontend-focused developer with 3+ years of experience crafting performant, scalable UIs for fintech and enterprise platforms. Proficient in ReactJS, TailwindCSS, and modern component-driven architecture. A Computer Science graduate from IIT Ropar with a strong foundation in DSA and system design.
 
 ## 🛠 Technical Stack
 
@@ -19,6 +19,8 @@ Passionate developer with 3+ years of professional experience building scalable 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-000?logo=data:image/svg+xml;base64,...)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
@@ -26,40 +28,45 @@ Passionate developer with 3+ years of professional experience building scalable 
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## 💼 Professional Experience
 
-### **Software Development Engineer** @ Hyrphots System
-- Built AI/ML-driven fintech products using ReactJS + Next.js
-- Created reusable component library with Radix UI/TailwindCSS
-- Implemented dynamic analytics dashboards and PDF workflows
+### **Software Development Engineer** @ Hyprbots System *(Nov 2023 – Present)*
+- Building AI/ML-powered fintech UIs using ReactJS, Next.js, TailwindCSS
+- Developed a reusable component system with Radix UI
+- Led integration of analytics dashboards, PDF workflows, and permission-based UIs
+- Built frameworks for invoice handling, approvals, and finance operations
 
-### **Associate Software Engineer** @ Click Labs
-- Migrated AngularJS → Angular 16 (30% performance improvement)
-- Implemented service workers, reducing load times from 6s → 200ms
-- Enhanced map predictions with Google/Mappr APIs
+### **Associate Software Engineer** @ Click Labs *(Jun 2022 – Nov 2023)*
+- Migrated AngularJS to Angular 16 with lazy loading & modular architecture
+- Cut load time from 5–6s to milliseconds using service workers & caching
+- Improved map prediction/search using Google & Mappr APIs
+- Enabled multilingual UI with custom translation pipes
+
+### **Intern – App Developer** @ iHub – AWaDH, IIT Ropar *(Jun 2021 – Jul 2021)*
+- Built a Flutter/Firebase app guiding farmers on growing okra
+- Used weather APIs and prior input data to generate task recommendations
 
 ## 🏆 Notable Projects
 
-### [SAMPAN App](https://github.com/amankushwaha0606/sampan-app) (Flutter/Firebase)
-Health management app serving 500+ Aanganwadi workers, tracking 25,000+ children's health records
+### [📱 SAMPAN App](https://github.com/amankushwaha0606/sampan-app) (Flutter/Firebase)
+Health management app used by 500+ Aanganwadi workers, managing 25K+ child health records
 
-### [Assignment Management System](https://github.com/amankushwaha0606/assignment-app) (React/Node.js)
-Full-stack platform for teachers and students with role-based access
+### [📚 Assignment Management System](https://github.com/amankushwaha0606/assignment-app) (React/Node.js)
+Full-stack app for assignment handling with role-based views for teachers and students
 
 ## 📊 GitHub Stats
 
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amankushwaha0606&show_icons=true&theme=radical&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amankushwaha0606&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
-I'm always open to interesting projects and collaborations. Feel free to reach out!
+I'm always open to meaningful frontend opportunities, collaborations, and building cool UI systems. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/amankushwaha0606)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:amankushwaha2001@gmail.com)
